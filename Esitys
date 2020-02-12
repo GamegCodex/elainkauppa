@@ -1,10 +1,24 @@
 Esitys ryhmälle ja opettajille
-
+ *** MARKO ***
 Projektin tavoitteena oli tehdä palvelimella toimiva kauppa lemmikkieläinten ruoalle ja muulle tavaralle
 
 Työnjako
-   Marko - Palvelimen ylläpito ja -asennukset, ifrastruktuuri, yhteydenpito, seuranpitäjä :)
-   Terttu - koodaus...
-   Matti - koodaus...
+   Marko - Palvelimen ylläpito ja -asennukset, infrastruktuuri, etusivu, yhteydenpito, seuranpitäjä :)
+   Terttu - (vaatimukset), suuunnittelu, toteutus, testaus (yksilöllinen testaus!)
+   Matti - (vaatimukset), suuunnittelu, toteutus, testaus (yksilöllinen testaus!)
    Timo - ...
+   
+Alustana käytettiin Azuren Linux Ubuntu 18.04 LTS palvelinta (1 vCPU, 2 GB memory), oma domain, kiinteä IP, sertifikaatti (DV)
+Alustan käyttö, tiedostojen siirto jne. vaativat runsaasti opettelua (pääasiassa Markon opettelua)
+Väitetystä poiketen Linuxin käyttö webbialustana ei ole ihan yksinkertaista, vaan sisältää paljon säätämistä.
+Projektin aikaiset kustannukset 20 - 25 euroa (paljon backupeja), palvelinmen kk kustannus 10 - 15 euroa
+*** MARKON ALKUOSUUS LOPPUU ***
+
+*** MATTI KERTOO ITSE SOFTASTA JA SIIHEN LIITTYVISTÄ ASIOISTA ***
+...
+*** MATIN OSUUS LOPPUU ***
+
+*** MARKO PÄÄTTÄÄ ESITYKSEEN TIETOKANNOISTA ***
+Perinteinen tietokantamallinnus (pdf)
+Uusi tietokantamallinnus (pdf)
 
