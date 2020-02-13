@@ -1,0 +1,49 @@
+//----------------------------------------------------------------
+//
+// Tiedosto: 	kauppasivut.txt		DRAFT
+// Kuvaus:	Hahmotelma Elainkauppa TMMT:n sivuhierarkiasta ja
+//		sivujen sisällöstä.
+// Pvm:		20200101
+//
+//
+//-----------------------------------------------------------------
+
+PÄÄSIVU
+
+_____________________________________________________________
+|                                                           |
+|       Eläinkauppa TMMT	  Ostoskori	        ##  |
+|                                                           |
+| --------------------------------------------------------  |
+|                                                           |
+|          Kuva1             Kuva2            Kuva3         |
+|       Tuotekuvaus       Tuotekuvaus      Tuotekuvaus      |
+|          Hinta             Hinta            Hinta         |
+|            +                 +                +           |
+|
+
+
+OSTOSKORI
+
+_____________________________________________________________
+|                                                           |
+|                     Tuotteet ostoskorissa                 |
+|                                                           |
+|    ------------------------------------------------       |
+|                                                           |
+|                          Tuote1                           |
+|                        Kpl määrä                          |
+|                      Kokonaishinta                        |
+|                        +      -                           |
+|                                                           |
+|                                                           |
+|                          Tuote2                           |
+|                        Kpl määrä                          |
+|                      Kokonaishinta                        |
+|                        +      -                           |
+|                                                           |
+|                                YHTENSÄ Eur  MAKSAMAAN ->  |
+|___________________________________________________________|
+ 
+  
+
