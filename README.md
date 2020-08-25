@@ -1,7 +1,9 @@
 # elainkauppa
 java final project
 
-Kaupan REST rajapintasofta,
-Tässä käytettiin Harj-10 ohjelmakoodia, joka modattiin kaupalle sopivaksi :)
+REST interface
+
+Technology used: Spring boot + maven with Spring Tool Suite
+Programming language: Java
 
 
